@@ -1,0 +1,14 @@
+{
+  "name": "kugutsu",
+  "version": "0.0.1",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
