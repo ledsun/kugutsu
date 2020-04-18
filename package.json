@@ -2,7 +2,7 @@
   "name": "kugutsu",
   "version": "0.0.1",
   "dependencies": {
-    "puppeteer": "^1.19.0"
+    "puppeteer": "^3.0.0"
   },
   "keywords": [],
   "license": "MIT",
